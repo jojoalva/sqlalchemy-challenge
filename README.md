@@ -32,5 +32,8 @@ Instructions for use:
 
 The first charts in the 'climate_starter.ipynb' file shows which months the precipitation is the highest or lowest, so you can make a decision on when you want to travel to Honolulu.
 
+![Alt text](image.png)
+
 The second chart shows that temperatures in the region of 75 degrees Fahrenheit are most common in Honolulu.
 
+![Alt text](image-1.png)
